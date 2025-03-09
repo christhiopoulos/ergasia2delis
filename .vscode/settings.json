@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "types.h": "c",
+        "lexan.h": "c",
+        "builder.h": "c",
+        "splitter.h": "c",
+        "hash_table.h": "c",
+        "errno.h": "c",
+        "random": "c",
+        "time.h": "c",
+        "signal.h": "c"
+    }
+}
